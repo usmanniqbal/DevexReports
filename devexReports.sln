@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "devexReports", "devexReports\devexReports.csproj", "{F62F13DD-1C3C-4948-A93A-4822C04A413A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DevExtreme NuGet.config", "DevExtreme NuGet.config", "{D8EF0610-010C-4DA2-A0C3-69FA845C6DC2}"
+	ProjectSection(SolutionItems) = preProject
+		NuGet.config = NuGet.config
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevexLambda1", "DevexLambda1\DevexLambda1.csproj", "{9634FA94-AAD0-4108-ABE6-1CECFF6483A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F62F13DD-1C3C-4948-A93A-4822C04A413A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62F13DD-1C3C-4948-A93A-4822C04A413A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62F13DD-1C3C-4948-A93A-4822C04A413A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F62F13DD-1C3C-4948-A93A-4822C04A413A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9634FA94-AAD0-4108-ABE6-1CECFF6483A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9634FA94-AAD0-4108-ABE6-1CECFF6483A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9634FA94-AAD0-4108-ABE6-1CECFF6483A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9634FA94-AAD0-4108-ABE6-1CECFF6483A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62330885-F284-4D4A-891F-DDB80BB90478}
+	EndGlobalSection
+EndGlobal
